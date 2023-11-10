@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchoolDB.Forms.Classes" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAiIGAAgAKECAIEhCAAAAARAAEEAAAFAgGAA=</HashCode>
+      <FileName>Forms\Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.EditClass" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAEDABAQCERAAAAAAICAAAAACACA=</HashCode>
+      <FileName>Forms\EditClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.EditMark" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAGEBAAAADABAUCEBAAAAggIAAAIAEAABA=</HashCode>
+      <FileName>Forms\EditMark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.EditParent" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCCAEARAIAADARAECERCAAABCYAASIAABAAA=</HashCode>
+      <FileName>Forms\EditParent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.EditStudent" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCCAEAQAIAADARAACERCAAABAYAASIAABAAA=</HashCode>
+      <FileName>Forms\EditStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.EditSubject" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgACAUBAAAAADABAQCEBAAAAAgIAAAAAAAACA=</HashCode>
+      <FileName>Forms\EditSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.EditTeacher" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCCAEARAIAADBRAACERCAAABAYAASIAABAAA=</HashCode>
+      <FileName>Forms\EditTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.History" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEACIEAAgAAECAAEACAAAAABAAAAAACAEgAAA=</HashCode>
+      <FileName>Forms\History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.LogIn" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABACAMABABAACAAgQCAEAAIACAAEAAAAFABAA=</HashCode>
+      <FileName>Forms\Log_In.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.MarkHistory" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEACIEAAgAAECAAEACAQAAARAAAAAAAAAgABA=</HashCode>
+      <FileName>Forms\MarkHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.MarksForStudent" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEACIEAAgAAECAAAACAACAAxgAAAAAQBCgAAA=</HashCode>
+      <FileName>Forms\MarksForStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.Marks" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAEACIEAAgAKECAAEgCAAAAAxAAEEAAQBCgCBA=</HashCode>
+      <FileName>Forms\MarksForTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.ParentHistory" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAEACIEAAgAAECAAEACAACAABAAAAAAAAAgAAA=</HashCode>
+      <FileName>Forms\ParentHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.Parents" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAEACIEAAgAKECAAMgCAQCAAxAAEEAAQBAgCAA=</HashCode>
+      <FileName>Forms\Parents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.StudentHistory" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEACIEAAgAAECAAEACAACAABAIAAAACAAgAAA=</HashCode>
+      <FileName>Forms\StudentHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.Students" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAEACIEAAgAKEWAAEgCAACIAxAAEEAAQBAgCAA=</HashCode>
+      <FileName>Forms\Students.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.SubjectHistory" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEACIUBAgAAECAAEACAAAAARAAAAAAAAAgAAA=</HashCode>
+      <FileName>Forms\SubjectHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.Subjects" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAEACIEBAgAKECIAEgCAAAAAxAAEEAAQBAgCAA=</HashCode>
+      <FileName>Forms\Subjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.SubjectsForStudent" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAEICIEAAgAAECAAAACAACAAxgAIAAAQBAgAAA=</HashCode>
+      <FileName>Forms\SubjectsForStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.SubjectsForTeacher" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACIEBAgAAECAIAQCAAAAExAAAAAAQBAgAAA=</HashCode>
+      <FileName>Forms\SubjectsForTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.TeacherHistory" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEACIEAAgAAECAAEACAAAAARgAAAAAAAAgAAA=</HashCode>
+      <FileName>Forms\TeacherHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolDB.Forms.Teachers" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAEACIEAAgIKEGAAEgSAAAAAxAAEEAAQBAgCAA=</HashCode>
+      <FileName>Forms\Teachers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SchoolDB.Forms.RowState" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAABAAEAAAAAAAAAAQAAAAEAAAAAA=</HashCode>
+      <FileName>Forms\Teachers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
